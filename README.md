@@ -52,6 +52,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
+├── analysis                            # EDA and advanced analytics, findings, and reports
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
