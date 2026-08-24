@@ -4,7 +4,7 @@ This project demonstrates an end-to-end **data warehousing and analytics solutio
 
 ---
 
-## 🚀 Project Overview
+## 📋 Project Overview
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 <img width="1212" height="808" alt="architecture-Page-1 drawio (1)" src="https://github.com/user-attachments/assets/eaeae28f-1a98-490c-8b41-dd58bc6e1487" />
