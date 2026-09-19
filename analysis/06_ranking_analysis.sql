@@ -23,7 +23,7 @@ LEFT JOIN gold.dim_products p
 GROUP BY p.product_name
 ORDER BY total_revenue DESC;
 
--- Complex but Flexibly Ranking Using Window Functions
+-- Ranking Using Window Functions
 SELECT *
 FROM (
     SELECT
